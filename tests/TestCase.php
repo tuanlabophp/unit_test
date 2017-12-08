@@ -2,6 +2,7 @@
 
 namespace Tests;
 
+<<<<<<< HEAD
 use App\User;
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
 
